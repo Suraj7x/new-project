@@ -49,19 +49,19 @@ A list of W3 project components and their current state.<br>
  <a href="https://www.Library">Library </a>)
 <br>
 
-<a href="https://www.Technical.com">Technical</a><br>
+<a href="https://www.Technical">Technical</a><br>
       Details of protocols, formats, program internals etc<br>
-<a href="https://www.Bibliography.com">Bibliography</a><br>
+<a href="https://www.Bibliography">Bibliography</a><br>
       Paper documentation on W3 and references.<br>
-<a href="https://www.people.com">People</a><br>
+<a href="https://www.people">People</a><br>
       A list of some people involved in the project.<br>
-<a href="https://www.history.com">History</a><br>
+<a href="https://www.history">History</a><br>
       A summary of the history of the project.<br>
-<a href="https://www.help.com">How can I help ?</a><br>
+<a href="https://www.help">How can I help ?</a><br>
       If you would like to support the web.<br>
-<a href="https://www.Gettingcode.com">Getting code</a><br>
+<a href="https://www.Gettingcode">Getting code</a><br>
     Getting the code by<br>
-<a href="https://www.anonymous.com">anonymous FTP</a> , etc.<br>
+<a href="https://www.anonymous">anonymous FTP</a> , etc.<br>
 
 </p>
 </body>
